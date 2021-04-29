@@ -1,1 +1,3 @@
 The application of AI includes computer vision and data analysis
+
+computer
